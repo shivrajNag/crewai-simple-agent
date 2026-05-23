@@ -1,0 +1,14 @@
+research_task:
+  description: >
+    Research the following topic and provide a comprehensive summary:
+    {topic}
+
+    Your summary should include:
+    - Key facts and concepts
+    - Important details and context
+    - A concise conclusion
+  expected_output: >
+    A well-structured summary of the topic with key facts,
+    important details, and a clear conclusion.
+    The summary should be informative yet concise.
+  agent: researcher
